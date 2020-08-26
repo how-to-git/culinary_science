@@ -1,0 +1,11 @@
+name: culinary_science
+version: 0.1.0
+description: >-
+  Sheldons complains about his sandwich, again.
+environment:
+  sdk: '>=2.0.0 <3.0.0'
+dependencies:
+  path: '^1.7.0'
+dev_dependencies:
+  test: '^1.15.3'
+
